@@ -42,12 +42,15 @@ The dashboard enables data-driven decision-making to improve delivery performanc
 ### Executive Overview
 ![Overview](images/overview.png)
 
+---
 ### Operations Efficiency
 ![Operations](images/operations-efficiency.png)
 
+---
 ### Customer Feedback & Satisfaction
 ![Customer Feedback](images/customer-feedback.png)
 
+---
 ### Forecasting & Demand Trends
 ![Forecast](images/forecasting.png)
 
@@ -61,7 +64,6 @@ Over **96.93% of orders experienced delays**, indicating a widespread operationa
 **Implication:**  
 The problem is rooted in **process inefficiencies or capacity constraints**, requiring system-level optimisation rather than individual performance fixes.  
 
----
 
 ### 1. Order backlog indicates capacity and workflow imbalance  
 Only **49% of orders were completed**, while **51% remained in progress**, highlighting a significant backlog.  
@@ -69,7 +71,6 @@ Only **49% of orders were completed**, while **51% remained in progress**, highl
 **Implication:**  
 Current operational capacity is insufficient to meet demand, leading to accumulation of pending orders and reduced service efficiency.  
 
----
 
 ### 2. Customer dissatisfaction is closely linked to delivery performance  
 Approximately **35.27% of customer feedback was negative**, correlating with high delivery delays.  
@@ -77,7 +78,6 @@ Approximately **35.27% of customer feedback was negative**, correlating with hig
 **Implication:**  
 Delivery performance is a key driver of customer satisfaction, and delays directly impact customer experience and retention.  
 
----
 
 ### 3. Delivery time exceeds operational benchmarks  
 Average delivery time reached **151.77 minutes**, significantly above expected performance targets.  
@@ -85,7 +85,6 @@ Average delivery time reached **151.77 minutes**, significantly above expected p
 **Implication:**  
 Inefficient routing, scheduling, or resource allocation is increasing delivery time and reducing operational efficiency.  
 
----
 
 ### 4. Zone and driver performance disparities drive inefficiencies  
 Certain zones and drivers consistently underperformed due to workload imbalance and inefficient allocation.  
